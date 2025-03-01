@@ -1,0 +1,6 @@
+git branch branch2
+git add sectionA.txt
+git status on branch
+git log
+git checkout branch
+settings-developer settings- generate new token (token classic)
