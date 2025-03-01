@@ -4,3 +4,4 @@ git status on branch
 git log
 git checkout branch
 settings-developer settings- generate new token (token classic)
+git merge branch2 main *merges two branch
